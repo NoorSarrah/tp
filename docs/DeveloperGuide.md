@@ -1342,7 +1342,7 @@ Choose a directory from the Start Menu
 	Type "help" to for nurse schedules commands
 	
 	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. **Test case:** `inventory` (where you will be directed to the Staff Menu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. **Test case:** `inventory` (where you will be directed to the Inventory Menu)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Expected:** 
 
